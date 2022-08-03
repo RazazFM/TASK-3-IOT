@@ -1,0 +1,29 @@
+body{ 
+ font-family: arial; 
+ font-size:16px; 
+ margin:0; 
+ background:linear-gradient(to right bottom, #E9967A, #ba68c8); 
+ display:flex; 
+ align-items:center; 
+ justify-content:center; 
+ min-height: 100vh; 
+ color:#000; 
+} 
+ 
+button{ 
+ padding: 12px 20px; 
+ background: #E9967A; 
+ border:0; 
+ border-radius:10px; 
+ cursor:pointer; 
+ color:#fff; 
+}
+
+input{
+  font-size: 13px;
+  line-height: 29px;
+  padding: 0 10px 0 11px;
+  text-align: center;
+  vertical-align: middle;
+  width: 100px;
+}
